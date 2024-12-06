@@ -21,6 +21,19 @@ Testar o Site: Teste todas as funcionalidades do site e faça ajustes conforme n
 
 Commit: git commit -m "Corrige bugs e faz ajustes finais"
 
+Resumo das Tarefas Semanais Cronograma
+Semana 1: Configuração do repositório e planejamento inicial.
+
+Semana 2: Desenvolvimento da estrutura HTML.
+
+Semana 3: Estilização com CSS.
+
+Semana 4: Adicionar interatividade com JavaScript.
+
+Semana 5: Testes detalhados e ajustes finais.
+
+Semana 6: Publicação do site no GitHub Pages.
+
 6. Publicação do Site
 GitHub Pages: Use o GitHub Pages para publicar o seu site. Você pode fazer isso nas configurações do repositório, ativando a opção GitHub Pages e selecionando a branch de publicação.
 
